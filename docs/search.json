@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "kierrschill",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-10T10:34:22-06:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
