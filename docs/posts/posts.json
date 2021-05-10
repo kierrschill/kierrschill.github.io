@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-05-10-my-first-blog-post/",
+    "title": "Hello World!",
+    "description": {},
+    "author": [
+      {
+        "name": "Kiersten",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-10",
+    "categories": [],
+    "contents": "\r\nTesting, testing, 1, 2, 3. This is my first blog post!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-10T10:51:51-06:00",
+    "input_file": "Hello-World.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to kierrschill",
     "description": "Welcome to our new blog, kierrschill. We hope you enjoy \nreading what we have to say!",

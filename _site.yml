@@ -3,6 +3,7 @@ title: "kierrschill"
 description: |
   kierrschill
 output_dir: "docs"
+base_url: https://kierrschill.github.io/
 navbar:
   right:
     - text: "Home"
