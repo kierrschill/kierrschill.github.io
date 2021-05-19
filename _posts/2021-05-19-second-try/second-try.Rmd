@@ -1,7 +1,7 @@
 ---
-title: "Second Try"
+title: "About my Senior Project"
 description: |
-  A short description of the post.
+  All Data Science majors are required to complete a Senior Project in order to graduate.
 author: Kiersten
 date: 05-19-2021
 output:
@@ -9,13 +9,8 @@ output:
     self_contained: false
 ---
 
+For my Senior Project, I am working with a local credit union here in Idaho. While the details are to subject change, the scope of the project is that company just opened a branch in a new city, and would like to learn more about the area where they are opening. I am grateful to be working along side this company for the time being, and I hope to create something that they can use in the future. And, I'm excited to document what I'm doing for this project!
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+Each week, I plan on writing at least one post of something I've accomplished for the project. While I won't share any private, company data, I will share data that is available to the public, such as census data (hint for my next post!).
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
-
+Thank you for reading and come again!

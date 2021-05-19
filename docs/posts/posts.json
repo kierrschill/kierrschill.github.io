@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2021-05-19-second-try/",
-    "title": "Second Try",
-    "description": "A short description of the post.",
+    "title": "About my Senior Project",
+    "description": "All Data Science majors are required to complete a Senior Project in order to graduate.",
     "author": [
       {
         "name": "Kiersten",
@@ -11,21 +11,21 @@
     ],
     "date": "2021-05-19",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nFor my Senior Project, I am working with a local credit union here in Idaho. While the details are to subject change, the scope of the project is that company just opened a branch in a new city, and would like to learn more about the area where they are opening. I am grateful to be working along side this company for the time being, and I hope to create something that they can use in the future. And, I’m excited to document what I’m doing for this project!\r\nEach week, I plan on writing at least one post of something I’ve accomplished for the project. While I won’t share any private, company data, I will share data that is available to the public, such as census data (hint for my next post!).\r\nThank you for reading and come again!\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-19T13:33:17-06:00",
+    "last_modified": "2021-05-19T15:04:32-06:00",
     "input_file": {}
   },
   {
     "path": "posts/welcome/",
-    "title": "Welcome to kierrschill",
-    "description": "Welcome to our new blog, kierrschill. We hope you enjoy \nreading what we have to say!",
+    "title": "Hello World!",
+    "description": "Welcome to my blog, kierrschill. I hope you enjoy \nreading what I have to share!",
     "author": [],
     "date": "2021-05-07",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nHey there friends, thanks for coming to my blog!\r\nIn case you’re interested, here’s a little bit about my education and myself.\r\nI’m currently writing this post as a Senior at Brigham Young University - Idaho! I’ve been attending this school since Fall 2016. For three years, I was an accounting major, and while I loved my professors and classmates, I struggled with the more advanced accounting concepts in my Income Taxation 2 (ACCT322) and Intermediate Accounting 2 (ACCT302) class. While some may say I’m persistent, I considered to be myself as more stubborn and I refused to switch my major. However, I caved (thank heavens!) and switched my major to Business Analytics.\r\nAfter switching, I took Intermediate Statistics, Data Wrangling and Visualizations, Business Analytics (a course, not the major), and Intro to Databases. While these courses were very different from my previous accounting courses, I thoroughly enjoyed doing the homework required for these courses, even if I didn’t understand the concepts at the time. I felt like I was actually learning and not just surviving doing homework in the library at 11pm. To create a new table in SQL, to create a visual of the distribution of whatever… it felt so rewarding and I was hooked. In accounting, I loved the number and the “black and white” aspect of an exchange/transaction being either a debt or a credit. But after switching my major, I loved that I could take these numbers, and describe them as data. Whether it was through some statistical measurement or visual, I felt like I could make sense of the “messy data” for myself and others.\r\nA while later, I found that the Business Analytics courses (as great as they are), lacked some of the more technical, programming skills that I enjoyed and I found myself taking more CIT and CS/CSE courses. I decided I would minor in Data Science, and got involved in Data Science Society. Enrolling in that society was perhaps the best decision of my education, besides choosing BYU-I and switching from Accounting. The students in Data Science Society are AMAZING and became my friends. At society, we would build connections with clients and work on whatever projects they needed, whether it was a statistical analysis or dashboard.\r\nNow, two years later, I have finally switched my major to Data Science. I do not consider myself to be anywhere near a Data Science guru, however I love the field and I love to learn. This blog has been created for my senior project, which I’ll write about in another post and additionally weekly updates. However, I hope to continue this blog after and share what I’ll be continuing to learn.\r\nNow, a little bit about myself and then I’ll be done writing ;) I’m from the Seattle area and I love the beauty of the Pacific Northwest. To be honest though, I consider Idaho to be more of my home now; I love it here and am so sad to graduate and leave this beautiful state!In my free time, I enjoy being with friends and doing some sort of activity, whether it’d be going on long walks or a hike, throwing a game night, or binging a TV show.\r\nYou don’t even have to know me to know that I love Diet Coke; I almost always have a can or bottle on me! This habit (not addiction) of drinking Diet Coke, was a “gift” instilled by my mom, who also drinks Diet Coke. My mom is my best friend and Diet Coke runs in our veins.\r\nAs mentioned, my mom is my best friend. I don’t even know where to begin on writing about her, but I am beyond grateful to have her as my mother, as I am for my father, siblings, grandparents, and everyone else. All I can say is, I love my family and they are apart of who I am. I can not imagine what life would be like if we didn’t have families, in any form! Whether it’d be our nuclear, extended, step, friends, peers, coworkers, whoever!\r\nIf you’re still reading this, you can accurately assume that I’m a “Chatty Cathy” and for everyone’s sake, I’ll end my writing now. But I hope you can sense my excitment as I document my journey!\r\nThank you for reading and enjoy the rest of your day!\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-10T11:27:59-06:00",
+    "last_modified": "2021-05-19T14:53:00-06:00",
     "input_file": {}
   }
 ]
