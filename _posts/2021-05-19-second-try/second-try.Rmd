@@ -1,5 +1,5 @@
 ---
-title: "About my Senior Project"
+title: "About My Senior Project"
 description: |
   All Data Science majors are required to complete a Senior Project in order to graduate.
 author: Kiersten

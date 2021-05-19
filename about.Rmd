@@ -1,9 +1,7 @@
 ---
-title: "About this blog"
+title: "About This Blog"
 description: |
-  Some additional details about the blog
+  Some additional details about my blog...
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+As mentioned in my first post, ["Hello World!"](https://kierrschill.github.io/posts/welcome/), this blog has been created for my senior project, which has been summarized in another [post](https://kierrschill.github.io/posts/2021-05-19-second-try/). During the current Spring 2021 semester, I will post additional weekly updates about what I'm accomplishing for my senior project. However, I hope to continue this blog after and share what I’ll be continuing to learn, even after the semester ends. Enjoy!

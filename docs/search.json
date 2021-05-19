@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "About This Blog",
+      "description": "Some additional details about my blog...",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-19T16:08:53-06:00"
+      "contents": "\r\nAs mentioned in my first post, “Hello World!”, this blog has been created for my senior project, which has been summarized in another post. During the current Spring 2021 semester, I will post additional weekly updates about what I’m accomplishing for my senior project. However, I hope to continue this blog after and share what I’ll be continuing to learn, even after the semester ends. Enjoy!\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-19T16:25:20-06:00"
     },
     {
       "path": "index.html",
       "title": "kierrschill",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-19T16:08:54-06:00"
+      "last_modified": "2021-05-19T16:10:49-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
