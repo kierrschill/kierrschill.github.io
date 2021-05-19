@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>https://kierrschill.github.io/kierrschill.github.io/</loc>
+    <loc>https://kierrschill.github.io/about.html</loc>
     <lastmod>2021-05-07T12:59:37-06:00</lastmod>
   </url>
   <url>
-    <loc>https://kierrschill.github.io/kierrschill.github.io/posts/2021-05-10-my-first-blog-post/</loc>
-    <lastmod>2021-05-10T11:29:53-06:00</lastmod>
+    <loc>https://kierrschill.github.io/</loc>
+    <lastmod>2021-05-19T13:29:06-06:00</lastmod>
   </url>
   <url>
-    <loc>https://kierrschill.github.io/kierrschill.github.io/posts/welcome/</loc>
+    <loc>https://kierrschill.github.io/posts/2021-05-19-second-try/</loc>
+    <lastmod>2021-05-19T13:33:17-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kierrschill.github.io/posts/welcome/</loc>
     <lastmod>2021-05-10T11:27:59-06:00</lastmod>
   </url>
 </urlset>

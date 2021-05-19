@@ -1,20 +1,20 @@
 [
   {
-    "path": "posts/2021-05-10-my-first-blog-post/",
-    "title": "Hello World!",
-    "description": {},
+    "path": "posts/2021-05-19-second-try/",
+    "title": "Second Try",
+    "description": "A short description of the post.",
     "author": [
       {
         "name": "Kiersten",
         "url": {}
       }
     ],
-    "date": "2021-05-10",
+    "date": "2021-05-19",
     "categories": [],
-    "contents": "\r\nTesting, testing, 1, 2, 3. This is my first blog post!\r\n\r\n\r\n\r\n",
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-10T11:29:53-06:00",
-    "input_file": "Hello-World.utf8.md"
+    "last_modified": "2021-05-19T13:33:17-06:00",
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",
@@ -26,6 +26,6 @@
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2021-05-10T11:27:59-06:00",
-    "input_file": "welcome.utf8.md"
+    "input_file": {}
   }
 ]
