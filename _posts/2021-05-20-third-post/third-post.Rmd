@@ -1,7 +1,7 @@
 ---
 title: "Tidycensus Introduction"
 description: |
-  How to connect to the US Census Bureau API simply done.
+  How to connect to the US Census Bureau API simply.
 author:
   - name: Kiersten
     url: {}
@@ -41,7 +41,7 @@ To use my given API key in my R script, I used the following code:
 # Sys.getenv("CENSUS_API_KEY")
 ```
 
-And *Voilà*! You're all set to query to your hearts content!
+And *voilà*! You're all set and ready to query to your hearts content, enjoy!
 
 
 
