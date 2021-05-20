@@ -7,7 +7,15 @@
     <description>kierrschill
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Tidycensus Introduction</title>
+      <dc:creator>Kiersten</dc:creator>
+      <link>https://kierrschill.github.io/posts/2021-05-20-third-post</link>
+      <description>How to connect to the US Census Bureau API simply done.</description>
+      <guid>https://kierrschill.github.io/posts/2021-05-20-third-post</guid>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>About My Senior Project</title>
       <dc:creator>Kiersten</dc:creator>
