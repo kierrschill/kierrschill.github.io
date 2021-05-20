@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\nIn my previous post, I mentioned how my senior project was centered around helping a local credit union understand the location in which they are opening a new branch. Part of this involves looking at the demographics of the population. In order to do this, I will be using tidycensus, an R package that connects to the US Census Bureau’s decennial census and five-year American Community APIs. The great thing about this package, is that it allows said census data to be returned in a usable tidyverse data frame.\r\nSome straight forward tutorials I found that I were useful are:\r\nR Tutorial: Census data in R: An overview (time ~ 2:34 minutes)\r\nR Tutorial: Basic tidycensus functionality (time ~ 2:20 minutes)\r\nR Tutorial: Searching for data with tidycensus (time ~ 3:10 minutes)\r\nTo start, you first need to request an API key using your email address. This can be done at https://api.census.gov/data/key_signup.html. After requesting, you should receive an email (I got mine after 5 minutes) that says something like:\r\n\r\nHello!\r\nThank you for your interest in the Census Data API. Your API key is [given API key here]. Please click here to activate your key. Save this email for future reference.\r\nHave Fun,\r\nThe Census Bureau API Team\r\n\r\nIn the email that you initially recieve, make sure to click on the link to activate your given API key. After, you’ll recieve another email stating that “Your key has been activated” and you can begin querying away.\r\nTo use my given API key in my R script, I used the following code:\r\n\r\n\r\n# census_api_key('API KEY GOES HERE', overwrite = TRUE, install = TRUE)\r\n\r\n# readRenviron(\"~/.Renviron\")\r\n\r\n# Sys.getenv(\"CENSUS_API_KEY\")\r\n\r\n\r\n\r\nAnd voilà! You’re all set and ready to query to your hearts content, enjoy!\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-20T15:15:05-06:00",
-    "input_file": {}
+    "last_modified": "2021-05-20T15:16:58-06:00",
+    "input_file": "third-post.utf8.md"
   },
   {
     "path": "posts/2021-05-19-second-try/",
